@@ -1,0 +1,8 @@
+listall	Istanbul->Madrid	30/04/2016
+listproper	Istanbul->Madrid	30/04/2016
+listcheapest	Istanbul->Madrid	30/04/2016
+listquickest	Istanbul->Madrid	30/04/2016
+listcheaper	Istanbul->Madrid	30/04/2016	340
+listquicker	Istanbul->Madrid	30/04/2016	01/05/2016 09:00 Sun
+listexcluding	Istanbul->Madrid	30/04/2016	LH
+listonlyfrom	Istanbul->Madrid	30/04/2016	TK
